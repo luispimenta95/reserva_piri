@@ -171,6 +171,7 @@ cover/
 # Translations
 *.mo
 *.pot
+*.xml
 
 # Django stuff:
 *.log
